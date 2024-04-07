@@ -10,7 +10,7 @@ Abstract
  processing and machine learning techniques. With these implementations, we plan to thoroughly
  analyse and compare the efficiency and effectiveness of both approaches.
  
- #Project Specification
+ Project Specification
  
  Neural Image Style transfer : Given two images namely, content image and style reference
  image,create a visually appealing image as output that retains the recognizable content of the original
